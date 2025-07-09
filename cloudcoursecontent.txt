@@ -1,0 +1,25 @@
+Course Title: Fundamentals of Cloud Computing
+
+1. Define the core concepts and characteristics of cloud computing, including on-demand self-service, broad network access, resource pooling, rapid elasticity, and measured service.
+2. Describe different cloud service models: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+3. Explain deployment models such as public cloud, private cloud, hybrid cloud, and community cloud.
+4. Use cloud platforms like AWS, Microsoft Azure, and Google Cloud Platform to create and manage virtual machines and cloud resources.
+5. Apply cloud storage solutions for data management using Amazon S3 and Google Cloud Storage.
+6. Analyze cloud security principles including identity and access management (IAM), data encryption, and compliance requirements.
+7. Develop scalable applications using serverless computing and containerization tools like AWS Lambda and Docker.
+8. Evaluate the cost-effectiveness of different cloud architectures and recommend optimization strategies.
+9. Collaborate on cloud-based projects using CI/CD tools and version control systems like Git.
+10. Demonstrate proficiency in troubleshooting and monitoring cloud services using logging and alerting tools.
+
+Assessment Strategy:
+- Hands-on cloud labs
+- Quizzes and case studies
+- Final cloud deployment project
+
+Tools and Platforms Used:
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud Platform (GCP)
+- Docker
+- GitHub
+- Jenkins
